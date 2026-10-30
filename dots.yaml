@@ -1,0 +1,3 @@
+lazypass:
+  source: ./config.yml
+  destination: ~/.config/lazypass/config.yml
