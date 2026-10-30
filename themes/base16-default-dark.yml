@@ -1,0 +1,34 @@
+gui:
+  theme:
+    activeBorderColor:
+      - "#7CAFC2" # accent
+      - bold
+
+    inactiveBorderColor:
+      - "#383838" # border
+
+    optionsTextColor:
+      - "#86C1B9" # cyan
+
+    selectedLineBgColor:
+      - "#282828" # selection
+
+    selectedRangeBgColor:
+      - "#383838" # range
+
+    cherryPickedCommitFgColor:
+      - "#86C1B9" # cyan
+
+    cherryPickedCommitBgColor:
+      - "#181818" # bg dark
+
+    unstagedChangesColor:
+      - "#F7CA88" # yellow
+
+    defaultFgColor:
+      - "#D8D8D8" # fg
+
+    searchingActiveBorderColor:
+      - "#BA8BAF" # purple
+
+  nerdFontsVersion: "3"
